@@ -1,0 +1,25 @@
+{
+  "name": "skku-stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "stat": "./main.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyhundred/skku-stat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyhundred/skku-stat/issues"
+  },
+  "homepage": "https://github.com/keyhundred/skku-stat#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
